@@ -1,1 +1,3 @@
 # RekrutacjaRacing
+
+Szymon Romanek
