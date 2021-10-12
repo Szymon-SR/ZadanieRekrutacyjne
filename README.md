@@ -1,3 +1,3 @@
-# RekrutacjaRacing
+# Zadanie Rekrutacyjne
 
 Szymon Romanek
